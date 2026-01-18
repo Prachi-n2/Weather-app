@@ -1,5 +1,3 @@
-# Weather-app
-A short README.md for the PyQt5 Weather App with install, run instructions, and known issues/fixes.
 # Weather App
 
 Simple PyQt5 GUI that fetches current weather from OpenWeatherMap and displays temperature and an emoji.
